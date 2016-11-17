@@ -1,0 +1,10 @@
+ El volumen de la unidad E es HD710M
+ El n£mero de serie del volumen es: 1BE2-3055
+
+ Directorio de E:\web\blog (2)\entradas
+
+03/11/2016  10:25               437 entrada1.html
+03/11/2016  10:24               298 entrada2.html
+03/11/2016  10:27               700 entrada3.html
+               3 archivos          1.435 bytes
+               0 dirs  529.359.208.448 bytes libres

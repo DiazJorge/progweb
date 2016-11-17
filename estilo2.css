@@ -1,0 +1,70 @@
+html{
+	background: #020202; 
+	font-family: 'Lato', helvetica, arial, sans-serif; 
+	font-size: 16px; 
+	color: #222;
+}
+
+header{
+	display: block; 
+	text-decoration: underline overline;
+	font: 80px Helvetica, Arial, Sans-Serif; 
+	letter-spacing: -5px;  
+	text-align: center;
+	color: #444; 
+	text-shadow: 0px 3px 8px #2a2a2a;
+}
+
+div{
+    -webkit-border-radius:10px; /*chrome  Safari*/
+    -moz-border-radius:10px;/* Firefox*/
+    -o-border-radius:10px;/*Opera*/
+    border-radius:10px;/*estandar*/
+    
+    background-image: -webkit-gradient(linear, left top, left bottom, from(#FFF), to(#CCC));/*chrome  Safari*/
+    background-image: -moz-linear-gradient(top center, #FFF, #CCC);/*Firefox*/
+    background-image: -o-linear-gradient(top, #FFF, #CCC);/*Opera*/
+    background-image: linear-gradient(top, #FFF, #CCC);/*estandar*/
+    
+    overflow:hidden; /*visible hidden scroll auto*/
+    padding:10px;
+	background: #f2f2f2;
+	margin: 30px auto;
+    width:1200px;    
+}
+p {
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #444;
+}
+/*div {
+    width: 90%;
+    max-width: 800px;
+    background: #f3f3f3;
+    margin: 30px auto;
+    border-top: 5px solid #dedede;
+    padding: 20px 20px 20px;
+}*/
+div p {
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #444;
+}
+div article p {
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #444;
+}
+div nav p {
+    text-align: center;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin-bottom: 20px;
+    color: #444;
+}
